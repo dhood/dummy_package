@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>dummy_package</name>
+  <version>0.0.0</version>
+  <description>dummy package for testing</description>
+  <maintainer email="dummy@test.com">dummy</maintainer>
+  <license>dummy</license>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
